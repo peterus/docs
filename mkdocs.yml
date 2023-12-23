@@ -1,4 +1,6 @@
 site_name: My Personal Docs
 theme: readthedocs
 repo_url: https://github.com/peterus/docs
-
+nav:
+  - Home: index.md
+  - 3D-Printer: 3d-printer.md
